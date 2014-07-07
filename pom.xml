@@ -12,6 +12,7 @@
         <module>InOut</module>
         <module>ZapisOdczytPliku</module>
         <module>Petle</module>
+        <module>PetlaForEach</module>
     </modules>
 
 
