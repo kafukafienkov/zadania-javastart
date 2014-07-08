@@ -13,6 +13,7 @@
         <module>ZapisOdczytPliku</module>
         <module>Petle</module>
         <module>PetlaForEach</module>
+        <module>TabliceJednowymiarowe</module>
     </modules>
 
 
