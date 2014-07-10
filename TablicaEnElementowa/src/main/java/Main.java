@@ -19,7 +19,6 @@ public class Main {
             System.out.print(board[i] + " ");
             i++;
         }
-
     }
 }
 
