@@ -17,6 +17,8 @@
         <module>TablicaEnElementowa</module>
         <module>DwieKlasyEmployee</module>
         <module>FirstAwtSwing</module>
+        <module>Rysowanie</module>
+        <module>Interfaces</module>
     </modules>
 
 

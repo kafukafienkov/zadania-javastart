@@ -13,11 +13,16 @@ public class MyFrame extends JFrame {
         setResizable(true);
         setLocation(425, 135);
         setSize(250, 250);
-        setLayout(new GridBagLayout());
+        setLayout(new FlowLayout());
+        /*Container container = getContentPane();
 
-        add(new JButton("Button no 1"));
-        add(new JButton("Button no 2"));
-        add(new JButton("Button no 3"));
+        container.add(new JButton("Button no 1"));
+        container.add(new JButton("Button no 2"));
+        container.add(new JButton("Button no 3"));*/
+
+        for (int i = 0; i < 10; i++) {
+            add(new JButton("" + (i + 1)));
+        }
 
         setVisible(true);
 
