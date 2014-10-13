@@ -13,8 +13,6 @@ public abstract class Vehicle {
 
     @Override
     public String toString() {
-        return "Vehicle{" +
-                "speed=" + speed +
-                '}';
+        return "Vehicle's speed= " + speed + " mph";
     }
 }

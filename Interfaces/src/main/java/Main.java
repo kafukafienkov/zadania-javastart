@@ -22,7 +22,6 @@ public class Main {
             System.out.println(vehicle.toString());
         }
 
-
         ArrayList<IVehicle> vehicles2 = new ArrayList<IVehicle>();
         vehicles2.add(car);
         vehicles2.add(coach);
