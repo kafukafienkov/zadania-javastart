@@ -19,6 +19,7 @@
         <module>FirstAwtSwing</module>
         <module>Rysowanie</module>
         <module>Interfaces</module>
+        <module>RzutowanieObiektow</module>
     </modules>
 
 
